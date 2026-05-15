@@ -1,4 +1,4 @@
 # Tokki Korean Blog
 
 ## Posts
-- [Code Syntax Guide (Test Post)](https://blog.axeldevelops.com/posts/code_syntax/)
+- [Code Syntax Guide (Test Post)](https://blog.tokkikorean.com/posts/code_syntax/)
