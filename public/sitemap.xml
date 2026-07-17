@@ -2,44 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.tokkikorean.com/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.tokkikorean.com/categories/updates/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.tokkikorean.com/categories/about-tokki-korean/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.tokkikorean.com/categories/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.tokkikorean.com/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.tokkikorean.com/tags/korean-apps/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.tokkikorean.com/tags/markdown/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.tokkikorean.com/tags/learning-korean/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.tokkikorean.com/posts/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.tokkikorean.com/series/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.tokkikorean.com/categories/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.tokkikorean.com/tags/syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.tokkikorean.com/tags/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.tokkikorean.com/categories/themes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.tokkikorean.com/series/themes-guide/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://blog.tokkikorean.com/tags/tokki-korean/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.tokkikorean.com/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.tokkikorean.com/posts/170726/</loc>
+    <lastmod>2026-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.tokkikorean.com/archives/</loc>
   </url><url>
     <loc>https://blog.tokkikorean.com/search/</loc>
+  </url><url>
+    <loc>https://blog.tokkikorean.com/series/</loc>
   </url>
 </urlset>

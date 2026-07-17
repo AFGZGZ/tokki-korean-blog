@@ -1,4 +1,4 @@
 # Tokki Korean Blog
 
 ## Posts
-- [Code Syntax Guide (Test Post)](https://blog.tokkikorean.com/posts/code_syntax/)
+- [Why Tokki Korean is the Korean Learning App You’ve Been Waiting For](https://blog.tokkikorean.com/posts/170726/)

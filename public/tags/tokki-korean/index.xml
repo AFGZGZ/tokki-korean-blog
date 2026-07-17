@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tokki Korean on Tokki Korean Blog</title>
+    <link>https://blog.tokkikorean.com/tags/tokki-korean/</link>
+    <description>Recent content in Tokki Korean on Tokki Korean Blog</description>
+    <image>
+      <title>Tokki Korean Blog</title>
+      <url>https://blog.tokkikorean.com/images/papermod-cover.png</url>
+      <link>https://blog.tokkikorean.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Axel Develops</copyright>
+    <lastBuildDate>Fri, 17 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.tokkikorean.com/tags/tokki-korean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Tokki Korean is the Korean Learning App You’ve Been Waiting For</title>
+      <link>https://blog.tokkikorean.com/posts/170726/</link>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://blog.tokkikorean.com/posts/170726/</guid>
+      <description>Discover Tokki Korean, the all-in-one Korean learning app that combines flashcards, dictionary, grammar, EPUB/PDF reader, YouTube subtitles, TOPIK practice in one seamless experience.</description>
+    </item>
+  </channel>
+</rss>
